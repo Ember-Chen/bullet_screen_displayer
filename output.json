@@ -1,0 +1,252 @@
+[
+    {
+        "room_display_id": 14047,
+        "room_real_id": 14047,
+        "type": "DANMU_MSG",
+        "data": {
+            "cmd": "DANMU_MSG",
+            "info": [
+                [
+                    0,
+                    1,
+                    25,
+                    16777215,
+                    1716713099581,
+                    1716712147,
+                    0,
+                    "65081f4a",
+                    0,
+                    0,
+                    0,
+                    "",
+                    0,
+                    "{}",
+                    "{}",
+                    {
+                        "mode": 0,
+                        "show_player_type": 0,
+                        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":16777215,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"3213131\",\"user_hash\":\"1695031114\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":9,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null,\"is_audited\":false,\"id_str\":\"750b5de6e6c5e4d80d723e580b6652f62\",\"icon\":null,\"show_reply\":true,\"reply_mid\":0,\"reply_uname\":\"\",\"reply_uname_color\":\"\",\"reply_is_mystery\":false,\"hit_combo\":0}",
+                        "user": {
+                            "uid": 176491860,
+                            "base": {
+                                "name": "Ember-Chen",
+                                "face": "https://i0.hdslb.com/bfs/face/5001dec8625dcd3d881cea47525f5f91b7dc2651.jpg",
+                                "name_color": 0,
+                                "is_mystery": false,
+                                "risk_ctrl_info": null,
+                                "origin_info": {
+                                    "name": "Ember-Chen",
+                                    "face": "https://i0.hdslb.com/bfs/face/5001dec8625dcd3d881cea47525f5f91b7dc2651.jpg"
+                                },
+                                "official_info": {
+                                    "role": 0,
+                                    "title": "",
+                                    "desc": "",
+                                    "type": -1
+                                },
+                                "name_color_str": ""
+                            },
+                            "medal": null,
+                            "wealth": null,
+                            "title": {
+                                "old_title_css_id": "",
+                                "title_css_id": ""
+                            },
+                            "guard": null,
+                            "uhead_frame": null,
+                            "guard_leader": {
+                                "is_guard_leader": false
+                            }
+                        }
+                    },
+                    {
+                        "activity_identity": "",
+                        "activity_source": 0,
+                        "not_show": 0
+                    },
+                    0
+                ],
+                "3213131",
+                [
+                    176491860,
+                    "Ember-Chen",
+                    0,
+                    0,
+                    0,
+                    10000,
+                    1,
+                    ""
+                ],
+                [
+                    6,
+                    "KuMua",
+                    "\u6c89\u8ff7CSGO\u7684KuMua",
+                    4800728,
+                    6126494,
+                    "",
+                    0,
+                    12632256,
+                    12632256,
+                    12632256,
+                    0,
+                    0,
+                    5888153
+                ],
+                [
+                    11,
+                    0,
+                    6406234,
+                    ">50000",
+                    0
+                ],
+                [
+                    "",
+                    ""
+                ],
+                0,
+                0,
+                null,
+                {
+                    "ts": 1716713099,
+                    "ct": "177E0A97"
+                },
+                0,
+                0,
+                null,
+                null,
+                0,
+                52,
+                [
+                    0
+                ],
+                null
+            ],
+            "dm_v2": ""
+        }
+    },
+    {
+        "room_display_id": 14047,
+        "room_real_id": 14047,
+        "type": "DANMU_MSG",
+        "data": {
+            "cmd": "DANMU_MSG",
+            "info": [
+                [
+                    0,
+                    1,
+                    25,
+                    16777215,
+                    1716713111843,
+                    1716712147,
+                    0,
+                    "65081f4a",
+                    0,
+                    0,
+                    0,
+                    "",
+                    0,
+                    "{}",
+                    "{}",
+                    {
+                        "mode": 0,
+                        "show_player_type": 0,
+                        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":16777215,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"32131313133\",\"user_hash\":\"1695031114\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":7,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null,\"is_audited\":false,\"id_str\":\"31ffd0f1611f6c3e0df8b2e7d66652f654\",\"icon\":null,\"show_reply\":true,\"reply_mid\":0,\"reply_uname\":\"\",\"reply_uname_color\":\"\",\"reply_is_mystery\":false,\"hit_combo\":0}",
+                        "user": {
+                            "uid": 176491860,
+                            "base": {
+                                "name": "Ember-Chen",
+                                "face": "https://i0.hdslb.com/bfs/face/5001dec8625dcd3d881cea47525f5f91b7dc2651.jpg",
+                                "name_color": 0,
+                                "is_mystery": false,
+                                "risk_ctrl_info": null,
+                                "origin_info": {
+                                    "name": "Ember-Chen",
+                                    "face": "https://i0.hdslb.com/bfs/face/5001dec8625dcd3d881cea47525f5f91b7dc2651.jpg"
+                                },
+                                "official_info": {
+                                    "role": 0,
+                                    "title": "",
+                                    "desc": "",
+                                    "type": -1
+                                },
+                                "name_color_str": ""
+                            },
+                            "medal": null,
+                            "wealth": null,
+                            "title": {
+                                "old_title_css_id": "",
+                                "title_css_id": ""
+                            },
+                            "guard": null,
+                            "uhead_frame": null,
+                            "guard_leader": {
+                                "is_guard_leader": false
+                            }
+                        }
+                    },
+                    {
+                        "activity_identity": "",
+                        "activity_source": 0,
+                        "not_show": 0
+                    },
+                    0
+                ],
+                "32131313133",
+                [
+                    176491860,
+                    "Ember-Chen",
+                    0,
+                    0,
+                    0,
+                    10000,
+                    1,
+                    ""
+                ],
+                [
+                    6,
+                    "KuMua",
+                    "\u6c89\u8ff7CSGO\u7684KuMua",
+                    4800728,
+                    6126494,
+                    "",
+                    0,
+                    12632256,
+                    12632256,
+                    12632256,
+                    0,
+                    0,
+                    5888153
+                ],
+                [
+                    11,
+                    0,
+                    6406234,
+                    ">50000",
+                    0
+                ],
+                [
+                    "",
+                    ""
+                ],
+                0,
+                0,
+                null,
+                {
+                    "ts": 1716713111,
+                    "ct": "1FF6986A"
+                },
+                0,
+                0,
+                null,
+                null,
+                0,
+                52,
+                [
+                    0
+                ],
+                null
+            ],
+            "dm_v2": ""
+        }
+    }
+]
